@@ -9,6 +9,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 ### Hallucination Benchmarks:
 
++ **MVI-Bench** [MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://arxiv.org/abs/2511.14159) (Nov. 18, 2025, ICML 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.14159)
+  [![Star](https://img.shields.io/github/stars/chenyil6/MVI-Bench.svg?style=social&label=Star)](https://github.com/chenyil6/MVI-Bench)
+
 + **VideoHallucer** [VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models](https://arxiv.org/abs/2406.16338) (Jun. 24, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16338)
   [![Star](https://img.shields.io/github/stars/patrick-tssn/VideoHallucer.svg?style=social&label=Star)](https://github.com/patrick-tssn/VideoHallucer)
